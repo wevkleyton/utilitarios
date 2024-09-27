@@ -1,8 +1,8 @@
-package com.br.utilitarios.utilitarios.services;
+package com.br.utilitarios.services;
 
 import java.net.InetAddress;
 
-import com.br.utilitarios.utilitarios.constantes.Servidores;
+import com.br.utilitarios.constantes.Servidores;
 
 public class TestaConexao {
 

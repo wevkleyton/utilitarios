@@ -1,4 +1,4 @@
-package com.br.utilitarios.utilitarios.bean;
+package com.br.utilitarios.bean;
 
 public class ArquivosDump {
 

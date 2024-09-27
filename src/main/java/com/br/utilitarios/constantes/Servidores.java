@@ -1,4 +1,4 @@
-package com.br.utilitarios.utilitarios.constantes;
+package com.br.utilitarios.constantes;
 
 public class Servidores {
 
