@@ -10,7 +10,7 @@ import jakarta.persistence.Table;
 public class ArquivoBackup implements Serializable{
 
 	
-	private static final long serialVersionUID = 1L;
+	private static final long serialVersionUID = 1L; 
 	private Integer idArq;
 	private String dataArq;
 

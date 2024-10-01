@@ -10,7 +10,7 @@ import java.util.Map;
 import br.com.utilitarios.constantes.ConstantesDiretorioArquivos;
 import br.com.utilitarios.model.ArquivoBackup;
 
-public class ArquivosController {
+public class ArquivosController { 
 
 	public ArquivosController() throws IOException {
 		ArquivoBackup idArq = new ArquivoBackup();
